@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 260" width="800" height="260" role="img" aria-label="Stack of three gold bars on a charcoal backdrop">
+  <title>Stack of three gold bars on a charcoal backdrop</title>
+  <rect width="800" height="260" rx="14" fill="#23211c"/>
+  <g stroke="#1c1a16" stroke-width="4" stroke-linejoin="round">
+    <path d="M250 190 L290 140 H450 L470 190 Z" fill="#d4a017"/><path d="M250 190 H470 V214 H250 Z" fill="#a67c0e"/>
+    <path d="M360 190 L400 140 H560 L580 190 Z" fill="#d4a017"/><path d="M360 190 H580 V214 H360 Z" fill="#a67c0e"/>
+    <path d="M305 140 L340 96 H480 L500 140 Z" fill="#ecd48a"/><path d="M305 140 H500 V150 H305 Z" fill="#d4a017"/>
+  </g>
+  <path d="M60 70 H190 M60 100 H150" stroke="#d4a017" stroke-width="5" stroke-linecap="round" opacity="0.6"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 140" width="240" height="140" role="img" aria-label="Gold bar">
+  <title>Gold bar</title>
+  <path d="M20 100 L60 40 H200 L220 100 Z" fill="#d4a017" stroke="#1c1a16" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M20 100 H220 V120 H20 Z" fill="#a67c0e" stroke="#1c1a16" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M70 52 H190" stroke="#ecd48a" stroke-width="6" stroke-linecap="round"/>
+  <path d="M95 74 H165" stroke="#a67c0e" stroke-width="5" stroke-linecap="round"/>
+</svg>
